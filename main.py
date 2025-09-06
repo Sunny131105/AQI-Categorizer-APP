@@ -9,7 +9,7 @@ def main():
     # Sidebar
     st.sidebar.image(
         "C:\\Users\\SUNNY SANGWAN\\ML\\Pollution -prediction-app\\download.jpeg",
-        use_column_width=True
+        use_container_width=True
     )
     st.sidebar.markdown("### 🔍 AQI Categorizer")
     st.sidebar.info("This tool helps you categorize Air Quality Index (AQI) values and pollutants.")
