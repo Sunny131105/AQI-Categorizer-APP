@@ -8,7 +8,7 @@ def main():
 
     # Sidebar
     st.sidebar.image(
-        "C:\\Users\\SUNNY SANGWAN\\ML\\Pollution -prediction-app\\download.jpeg",
+        r"C:\\Users\\SUNNY SANGWAN\\ML\\Pollution -prediction-app\\download.jpeg",
         use_column_width=True
     )
     st.sidebar.markdown("### 🔍 AQI Categorizer")
