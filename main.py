@@ -8,7 +8,7 @@ def main():
 
     # Sidebar
     st.sidebar.image(
-        "C:\\Users\\SUNNY SANGWAN\\AQI-Categorizer-APP\\download.jpeg",
+        "C:\Users\SUNNY SANGWAN\AQI-Categorizer-APP\image\download.jpeg",
         use_container_width=True
     )
     st.sidebar.markdown("### 🔍 AQI Categorizer")
